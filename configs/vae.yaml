@@ -5,7 +5,7 @@ model_params:
 
 
 data_params:
-  data_path: "drive/MyDrive/Data/"
+  data_path: "drive/My Drive/Data/"
   train_batch_size: 64
   val_batch_size:  64
   patch_size: 64
